@@ -1,0 +1,19 @@
+{
+  "name": "Ninlay",
+  "short_name": "Ninlay",
+  "theme_color": "",
+  "background_color": "#001A2A",
+  "display": "standalone",
+  "orientation": "portrait",
+  "scope": "/",
+  "start_url": "/",
+  "icons": [
+    {
+      "src": "_assets/images/1771583918-favicon.svg",
+      "sizes": "144x144",
+      "type": "image/png",
+      "purpose": "maskable any"
+    }
+  ],
+  "splash_pages": null
+}
